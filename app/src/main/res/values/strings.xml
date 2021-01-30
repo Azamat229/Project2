@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourtKeeperApp</string>
+    <string name="team_A">Milwaukee Bucks</string>
+    <string name="team_B">Memphis Grizzlies</string>
+    <string name="_3_points">+3 Points</string>
+    <string name="_2_point">+2 point</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="_0">0</string>
+    <string name="reset">RESET</string>
+    <string name="imageofteam">imageOfTeam</string>
+    <string name="imageofteamb">imageOfTeamB</string>
+</resources>
